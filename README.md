@@ -510,7 +510,7 @@ Perfect for research, enterprise labs, and advanced cybersecurity projects.
 
 🧑‍💻 Author
 
-Vansh Jain
+Dhwani Bhut
 Cybersecurity & AI Researcher
 
 Creator and lead developer of Sentinel-AI, an AI-driven DDoS detection and mitigation architecture integrating machine learning, SDN automation, and real-time network analytics.
